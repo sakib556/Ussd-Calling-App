@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Dial_App</string>
+    <string-array name="bank_array">
+        <item>Bkash</item>
+        <item>Nagad</item>
+        <item>Rocket</item>
+        <item>Upay</item>
+    </string-array>
+    <string-array name="media_array">
+        <item>Agent</item>
+        <item>Cashout</item>
+        <item>Send Money</item>
+    </string-array>
+    <string-array name="sim1_array">
+        <item>Banglalink</item>
+        <item>Robi</item>
+        <item>Airtel</item>
+    </string-array>
+</resources>
